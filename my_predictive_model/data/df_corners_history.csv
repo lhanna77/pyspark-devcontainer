@@ -1,0 +1,22 @@
+team
+id,team_name,corner_kicks,goals,win_over_one
+1,Team A,5,2,1
+2,Team B,3,1,0
+3,Team C,7,3,1
+4,Team D,4,2,1
+5,Team E,2,0,0
+6,Team F,6,4,1
+7,Team G,1,1,0
+8,Team H,8,5,1
+9,Team I,3,2,0
+10,Team J,4,3,1
+11,Team K,5,1,1
+12,Team L,2,2,0
+13,Team M,7,4,1
+14,Team N,3,1,0
+15,Team O,6,3,1
+16,Team P,4,2,1
+17,Team Q,1,0,0
+18,Team R,8,6,1
+19,Team S,3,2,0
+20,Team T,5,4,1
